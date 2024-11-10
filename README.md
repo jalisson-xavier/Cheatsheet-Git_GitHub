@@ -4,19 +4,19 @@
 Bem-vindo ao repositório de Cheatsheets! Aqui você encontrará uma coleção de dicas rápidas e úteis para o uso do Git e GitHub, ideal para desenvolvedores que desejam aumentar sua produtividade.
 
 
-## **Introdução**
+## Introdução
 
 Este repositório contém uma série de cheatsheets para ajudar desenvolvedores a trabalharem de maneira eficiente com Git e GitHub. A ideia é fornecer comandos e dicas rápidas para facilitar o uso dessas ferramentas.
 
 
-## **Configurações Iniciais**
+## Configurações Iniciais
 
 | Bash														|Descrição						|
 | ----------------------------------------------------------|-------------------------------|
 | `git config --global user.name "Seu Nome"`				| # Definição de usuário global |
 | `git config --global user.email "seuemail@example.com"`	| # Definição de conta global   |
 
-## **Comandos Básicos**
+## Comandos Básicos
 
 | Bash							|Descrição													|
 | ------------------------------|-----------------------------------------------------------|
@@ -29,7 +29,7 @@ Este repositório contém uma série de cheatsheets para ajudar desenvolvedores 
 | `git pull`              		| # Atualiza o repositório local com mudanças do remoto  	|
 | `git log`               		| # Exibe o histórico de commits                        	|
 
-## **Trabalhando com Branches**
+## Trabalhando com Branches
 
 | Bash							|Descrição													|
 | ------------------------------|-----------------------------------------------------------|
@@ -39,7 +39,7 @@ Este repositório contém uma série de cheatsheets para ajudar desenvolvedores 
 | `git merge <nome>`       		| # Faz o merge da branch especificada na branch atual      |
 | `git branch -d <nome>`   		| # Deleta a branch especificada                            |
 
-## **Revertendo Mudanças**
+## Revertendo Mudanças
 
 | Bash							|Descrição																|
 | ------------------------------|-----------------------------------------------------------------------|
@@ -57,7 +57,7 @@ Este repositório contém uma série de cheatsheets para ajudar desenvolvedores 
 | `refactor`     | Realiza mudanças no código que não alteram a funcionalidade.         | `refactor: refactor at CLASSNAME`     |
 | `test`         | Adiciona ou modifica testes no projeto.                              | `test: add unit test for UserService` |
 
-## **Colaborando no Git**
+## Colaborando no Git
 
 | Bash					|Descrição																|
 | ----------------------|-----------------------------------------------------------------------|
@@ -66,9 +66,7 @@ Este repositório contém uma série de cheatsheets para ajudar desenvolvedores 
 | `git issues`         	| # Reporta problemas ou solicitações de funcionalidade                	|
 
 
-## Links e repositórios úteis
-
-
+## 🔗 Links e repositórios úteis
 
 https://git-scm.com
 
@@ -78,4 +76,9 @@ https://github.blog
 
 https://readme.so/
 
+
+
+### 🔎Onde me encontrar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/jalisson-xavier/)
+[![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github)](https://github.com/jalisson-xavier)
 
