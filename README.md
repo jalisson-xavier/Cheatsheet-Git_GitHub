@@ -11,8 +11,8 @@ Este repositório contém uma série de cheatsheets para ajudar desenvolvedores 
 ## ⚙️Configurações Iniciais
 
 ```
-git config --global user.name "Seu Nome"`				# Definição de usuário global
-git config --global user.email "seuemail@example.com"`	# Definição de conta global
+git config --global user.name "Seu Nome"	# Definição de usuário global
+git config --global user.email "seuemail@example.com"	# Definição de conta global
 ```
 
 ## 🛠️Comandos Básicos
